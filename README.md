@@ -18,6 +18,6 @@ echo "=== RESULT ===\n\nName : {$name}\nImage : {$image}";
 ?>
 ```
 
-## Author
+## Credit
 
-• [@Moe Poi ~](https://www.facebook.com/moepoi.404)
+Moe Poi ~ / [@moepoi](https://github.com/moepoi)
